@@ -1,0 +1,35 @@
+@media (max-width:767px) {
+  .social-icons {
+    padding: 50px 0;
+  }
+}
+
+.social-icons i {
+  font-size: 14px;
+  display: inline-block;
+  color: #ffffff;
+  margin: 16px 0px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #e3c020;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 41px;
+  background: #e3c020;
+  transition: 0.5s;
+}
+
+.social-icons i:hover {
+  font-size: 14px;
+  display: inline-block;
+  color: #ffffff;
+  margin: 16px 0px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #e66551;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 41px;
+  background: #e66551;
+}
+
